@@ -12,7 +12,7 @@ To add this class to your project you must:
 - Start your project
 - Click on the "Project" tab
 - Click "Add an existing item ..."
-- Check the Bot.vb file
+- Search the Bot.vb file
 - And click "Add"
 
 If you still need help or if you have a problem:
