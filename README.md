@@ -16,8 +16,8 @@ To add this class to your project you must:
 - And click "Add"
 
 If you still need help or if you have a problem:
--Contact me by MP Youtube (https://www.youtube.com/channel/UC6lbgL5LYO0f4-4DH8JNU4Q)
--Or by email: ShakatarYT@gmail.com
+- Contact me by MP Youtube (https://www.youtube.com/channel/UC6lbgL5LYO0f4-4DH8JNU4Q)
+- Or by email: ShakatarYT@gmail.com
 
 (I will try to answer you as soon as possible)
 
