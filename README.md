@@ -8,12 +8,12 @@ This class is intended to facilitate the work of people who want to code a bot i
 Help :
 
 To add this class to your project you must:
--You Go to Visual Studio / Visual Basic
+- You Go to Visual Studio / Visual Basic
 - Start your project
--Click on the "Project" tab
--Click "Add an existing item ..."
--Check the Bot.vb file
--And click "Add"
+- Click on the "Project" tab
+- Click "Add an existing item ..."
+- Check the Bot.vb file
+- And click "Add"
 
 If you still need help or if you have a problem:
 -Contact me by MP Youtube (https://www.youtube.com/channel/UC6lbgL5LYO0f4-4DH8JNU4Q)
