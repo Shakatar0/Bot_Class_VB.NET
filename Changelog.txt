@@ -1,0 +1,16 @@
+1.0 (First Version) :
+
+-Added "Click()"
+-Added "ClickPos()"
+-Added "MoveCursor()"
+-Added "getCursorPosition()"
+-Added "getCursorXPosition()"
+-Added "getCursorYPosition()"
+-Added "FocusApplication()"
+-Added "KillApplication()"
+-Added "OpenApplication()"
+-Added "Batch()"
+-Added "WaitMilli()"
+-Added "WaitSec()"
+-Added "WaitMin()"
+-Added "WaitHour()"
