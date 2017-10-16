@@ -1,33 +1,35 @@
 Informations :
 
-Je vous informe tout d'abord que moi Shakatar je n'ai pas entièrement créé
-cette class, il y a quelques lignes de code que j'ai prises sur Internet.
-Cette class a pour but de faciliter le travail des personnes qui veulent coder un bot en VB.NET.
+Je vous informe tout d'abord que moi Shakatar je n'ai pas entiÃ¨rement crÃ©Ã©
+ce module, il y a quelques lignes de code que j'ai prises sur Internet.
+Ce module a pour but de faciliter le travail des personnes qui veulent coder un bot en VB.NET.
 
 
 Aide :
 
-Pour ajouter cette class à votre projet vous devez :
+Pour ajouter ce module Ã  votre projet vous devez :
 -Vous rendre sur Visual Studio/Visual Basic
 -Lancez votre projet
 -Cliquez sur l'onglet "Projet"
--Cliquez sur "Ajouter un élément existant..."
+-Cliquez sur "Ajouter un Ã©lÃ©ment existant..."
 -Cherchez le fichier Bot.vb
 -Et cliquez sur "Ajouter"
 
-Si vous avez encore besoin d'aide ou si vous avez un problème :
+Si vous avez encore besoin d'aide ou si vous avez un problÃ¨me :
 -Contactez-moi pas MP Youtube (https://www.youtube.com/channel/UC6lbgL5LYO0f4-4DH8JNU4Q)
 -Ou par mail : ShakatarYT@gmail.com
 
-(J'essayerai de vous répondre au plus vite)
+(J'essayerai de vous rÃ©pondre au plus vite)
 
 
-Utilité :
+UtilitÃ© :
 
-Comme je l'ai dit précédemment,
-cette class a pour but de faciliter le travail des personnes qui veulent coder un bot en VB.NET. 
+Comme je l'ai dit prÃ©cÃ©demment,
+ce module a pour but de faciliter le travail des personnes qui veulent coder un bot en VB.NET. 
 
 
 Note :
 
 Cette fois-ci le code est Open Source !
+
+En mÃªme tant je peux pas faire autrement :D
