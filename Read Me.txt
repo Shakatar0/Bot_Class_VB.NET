@@ -1,13 +1,13 @@
 Information:
 
 I first inform you that I Shakatar I have not entirely created
-This class, there are a few lines of code that I have taken on the Internet.
-This class is intended to facilitate the work of people who want to code a bot in VB.NET.
+This module, there are a few lines of code that I have taken on the Internet.
+This module is intended to facilitate the work of people who want to code a bot in VB.NET.
 
 
 Help :
 
-To add this class to your project you must:
+To add this module to your project you must:
 -You Go to Visual Studio / Visual Basic
 - Start your project
 -Click on the "Project" tab
@@ -25,7 +25,7 @@ If you still need help or if you have a problem:
 Usefulness:
 
 Like I said previously,
-This class aims to facilitate the work of people who want to code a bot in VB.NET.
+This module aims to facilitate the work of people who want to code a bot in VB.NET.
 
 
 Note:
